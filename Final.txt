@@ -1,0 +1,125 @@
+ Program
+   Robot Program
+     Gripper Close (1)
+     Gripper Activate
+     MoveL
+       St_pos
+       Waypoint_1
+       Waypoint_2
+       Waypoint_3
+       Gripper Move33% (1)
+       Waypoint_4
+       Waypoint_5
+       Waypoint_6
+       Waypoint_7
+       Waypoint_8
+       Waypoint_9
+       St_pos
+       Gripper Open (1)
+       Waypoint_10
+       Waypoint_11
+       Gripper Move51% (1)
+       Waypoint_12
+       Waypoint_24
+       Waypoint_13
+       Waypoint_41
+       Waypoint_42
+       Waypoint_43
+       Waypoint_38
+       Wait: 2.0
+       Waypoint_39
+       Wait: 5.0
+       Waypoint_15
+       Waypoint_34
+       Waypoint_16
+       Wait: 2.0
+       Waypoint_40
+       Waypoint_17
+       Waypoint_18
+       Wait: 2.0
+       Waypoint_19
+       Wait: 3.0
+       Waypoint_20
+       Waypoint_21
+       Waypoint_22
+       Waypoint_25
+       Gripper Move40% (1)
+       Wait: 2.0
+       Waypoint_23
+       Waypoint_26
+       St_pos
+     MoveL
+       Waypoint_27
+       Waypoint_35
+       Waypoint_28
+       Gripper Move70% (1)
+       Waypoint_29
+       Gripper Move41% (1)
+       Waypoint_30
+       Gripper Move55% (1)
+       Waypoint_31
+       Waypoint_32
+       Wait: 7.0
+       Waypoint_36
+       Waypoint_14
+       Waypoint_37
+     MoveJ
+       Waypoint_33
+       St_pos
+       St_pos
+       Wait: 180.0
+       Waypoint_1
+       Waypoint_2
+       Waypoint_3
+       Gripper Move33% (1)
+       Waypoint_4
+       Waypoint_5
+       Waypoint_6
+       Waypoint_7
+       Waypoint_8
+       Waypoint_9
+       St_pos
+     MoveJ
+       Gafel_1
+       Gafel_2
+       Gafel_3
+       Gripper Move38% (1)
+       Gafel_4
+       Gripper Close (1)
+       Gafel_5
+       Gafel_6
+       Gafel_7
+       Gafel_8
+       St_pos
+       H_Vafel_a1
+       H_Vafel_a2
+       H_Vafel_a3
+       H_Vafel_a4
+       H_Vafel_a5
+       H_Vafel_a6
+       H_Vafel_a7
+       H_Vafel_a8
+       Waypoint_49
+       Waypoint_50
+       Waypoint_51
+       Waypoint_66
+       Waypoint_68
+       Waypoint_45
+       Waypoint_53
+       Waypoint_46
+       Waypoint_52
+       Waypoint_47
+       Waypoint_48
+       Waypoint_49
+       Waypoint_50
+       Waypoint_51
+       St_pos
+       Waypoint_75
+       Gafel_7
+       Gafel_6
+       Gafel_5
+       Gripper Move50% (1)
+       Waypoint_63
+       Waypoint_64
+       St_pos
+     Gripper Move92% (1)
